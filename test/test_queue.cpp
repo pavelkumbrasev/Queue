@@ -65,5 +65,3 @@ TEST(TQueue, can_check_stack_is_full)
 
 	EXPECT_EQ(true, a.isFull());
 }
-
-
